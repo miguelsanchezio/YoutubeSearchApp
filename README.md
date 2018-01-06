@@ -1,3 +1,3 @@
 # Youtube Search App
 
-Assisted by the [ReduxSimpleStarter from Stephen Grider](https://github.com/StephenGrider/ReduxSimpleStarter)
+Users are shown different videos based on their input.
